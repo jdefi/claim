@@ -1,4 +1,4 @@
-# 🦥 AllswapFarm Frontend 🦥
+# ![icon-48x48](https://user-images.githubusercontent.com/83540733/138153233-fd6ea96f-67e5-4e59-a543-13574b2c229c.png) AllswapFarm Frontend ![icon-48x48](https://user-images.githubusercontent.com/83540733/138153233-fd6ea96f-67e5-4e59-a543-13574b2c229c.png)
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/7bebf1a3-be7b-4165-afd1-446256acd5e3/deploy-status)](https://app.netlify.com/sites/pancake-prod/deploys)
 
