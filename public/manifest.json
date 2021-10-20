@@ -1,7 +1,7 @@
 {
-  "short_name": "KogeFarm",
-  "name": "KogeFarm",
-  "description": "Farm with KogeFarm LP Tokens",
+  "short_name": "AllSwapFarm",
+  "name": "AllSwapFarm",
+  "description": "Farm with AllSwapFarm LP Tokens",
   "icons": [
     {
       "src": "favicon.ico",
