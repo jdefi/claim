@@ -1,4 +1,4 @@
-# Contributing to the KogeFarm ecosystem 🦥
+# Contributing to the AllswapFarm ecosystem ![icon-48x48](https://user-images.githubusercontent.com/83540733/138153233-fd6ea96f-67e5-4e59-a543-13574b2c229c.png)
 
 Thanks for taking the time to contribute!
 You can start by reading our [Contribution guidelines](https://docs.pancakeswap.finance/code/contributing) first.
