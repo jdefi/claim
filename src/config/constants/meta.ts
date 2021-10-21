@@ -1,13 +1,13 @@
 import { PageMeta } from './types'
 
 export const DEFAULT_META: PageMeta = {
-  title: 'AllswapFarm: Auto-Compounding High APR Farms on Polygon',
+  title: 'AllswapFarm: Decentralized Defi platform',
   description:
-    'We are a defi utility that auto-compounds high APR farms on PolyGon.'
+    'We are a defi utility and cross-chains, that evolved into a vibrant ecosystem.'
 }
 
 export const customMeta: { [key: string]: PageMeta } = {
   '/': {
-    title: 'AllswapFarm: Auto-Compounding High APR Farms on Polygon',
+    title: 'AllswapFarm: Decentralized Defi platform',
   },
 }
