@@ -139,13 +139,15 @@ index 94e2ef0..5a4badb 100644
 -                href: "https://t.me/PancakeSwapWhales",
 -            },
 -        ],
-+        href: "https://t.me/kogecoin",
+-        href: "https://t.me/kogecoin",
++        herf: "https://t.me/allswapdefi",
      },
      {
          label: "Twitter",
          icon: "TwitterIcon",
 -        href: "https://twitter.com/pancakeswap",
-+        href: "https://twitter.com/kogecoin",
+-        href: "https://twitter.com/kogecoin",
++        herf: "https://twitter.com/AllSwaps",
      },
  ];
  var MENU_HEIGHT = 64;
@@ -295,13 +297,15 @@ index 0cb8985..00cf6cc 100644
 -                href: "https://t.me/PancakeSwapWhales",
 -            },
 -        ],
-+        href: "https://t.me/kogecoin",
+-        href: "https://t.me/kogecoin",
++        herf: "https://t.me/allswapdefi",
      },
      {
          label: "Twitter",
          icon: "TwitterIcon",
 -        href: "https://twitter.com/pancakeswap",
-+        href: "https://twitter.com/kogecoin",
+-        href: "https://twitter.com/kogecoin",
++        herf: "https://twitter.com/AllSwaps",
      },
  ];
  var MENU_HEIGHT = 64;
