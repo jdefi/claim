@@ -7,86 +7,86 @@ export const config: MenuEntry[] = [
     href: '/',
   },
   {
-    label: 'Claim Token',
-    icon: 'TeamBattleIcon',
-    href: '/',
-  },
-  {
     label: 'Documentation',
     icon: 'InfoIcon',
-    href: '/',
+    href: 'https://kogecoin-io.gitbook.io/kogefarm/',
   },
   {
     label: 'Audit',
     icon: 'NftIcon',
-    href: '/',
+    href: 'https://kogecoin-io.gitbook.io/kogefarm/audit/',
+  },
+  {
+    label: 'KogeCoin Token',
+    icon: 'TeamBattleIcon',
+    href: 'https://kogecoin-io.gitbook.io/kogefarm/the-kogecoin-token',
   },
   {
     label: 'Twitter',
     icon: 'TwitterIcon',
-    href: 'https://twitter.com/Allswaps',
+    href: 'https://twitter.com/kogecoin',
   },
-  {
-    label: "Discord",
-    icon: "DiscordIcon",
-    href: "https://discord.gg/VgXcCBnxgG",
-  },
+  // {
+  // label: "Telegram",
+  //   icon: "TelegramIcon",
+  //   href: "https://t.me/kogecoin",
+  // }
   {
     label: "Telegram",
     icon: "TelegramIcon",
     items: [
       {
         label: "English",
-        href: "https://t.me/allswapdefi",
+        href: "https://t.me/kogecoin",
+      },
+      {
+        label: "Bahasa Indonesia",
+        href: "https://t.me/kogecoinIndonesia",
+      },
+      {
+        label: "中文",
+        href: "https://t.me/kogecoin_CN",
+      },
+      {
+        label: "Tiếng Việt",
+        href: "https://t.me/kogecoinVN",
+      },
+      {
+        label: "Italiano",
+        href: "https://t.me/kogecoin_ita",
+      },
+      {
+        label: "русский",
+        href: "https://t.me/kogecoin_ru",
+      },
+      {
+        label: "Türkiye",
+        href: "https://t.me/kogecointurkiye",
+      },
+      {
+        label: "Português",
+        href: "https://t.me/kogecoinPortuguese",
+      },
+      {
+        label: "Español",
+        href: "https://t.me/kogecoinEs",
+      },
+      {
+        label: "日本語",
+        href: "https://t.me/kogecoinjp",
+      },
+      {
+        label: "Français",
+        href: "https://t.me/kogecoinfr",
       },
       {
         label: "Announcements",
-        href: "https://t.me/allswap_xyz_ann",
+        href: "https://t.me/kogecoinAnn",
       },
-  //    {
-  //      label: "Bahasa Indonesia",
-  //      href: "\",
-  //    },
-  //    {
-  //      label: "中文",
-  //      href: "https://t.me/kogecoin_CN",
-  //    },
-  //    {
-  //      label: "Tiếng Việt",
-  //      href: "https://t.me/kogecoinVN",
-  //    },
-  //    {
-  //      label: "Italiano",
-  //      href: "https://t.me/kogecoin_ita",
-  //    },
-  //    {
-  //      label: "русский",
-  //      href: "https://t.me/kogecoin_ru",
-  //    },
-  //    {
-  //      label: "Türkiye",
-  //      href: "https://t.me/kogecointurkiye",
-  //    },
-  //    {
-  //      label: "Português",
-  //      href: "https://t.me/kogecoinPortuguese",
-  //    },
-  //    {
-  //      label: "Español",
-  //      href: "https://t.me/kogecoinEs",
-  //    },
-  //    {
-  //      label: "日本語",
-  //      href: "https://t.me/kogecoinjp",
-  //    },
-  //    {
-  //      label: "Français",
-  //      href: "https://t.me/kogecoinfr",
-  //    },
-  //    {
-  //      label: "Whale Alert",
-  //      href: "https://t.me/kogecoinWhales",
-  //    },
+      {
+        label: "Whale Alert",
+        href: "https://t.me/kogecoinWhales",
+      },
     ],
   },
   /* {
@@ -207,66 +207,61 @@ export const socials = [
     items: [
       {
         label: "English",
-        href: "https://t.me/allswapdefi",
+        href: "https://t.me/kogecoin",
+      },
+      {
+        label: "Bahasa Indonesia",
+        href: "https://t.me/kogecoinIndonesia",
+      },
+      {
+        label: "中文",
+        href: "https://t.me/kogecoin_CN",
+      },
+      {
+        label: "Tiếng Việt",
+        href: "https://t.me/kogecoinVN",
+      },
+      {
+        label: "Italiano",
+        href: "https://t.me/kogecoin_ita",
+      },
+      {
+        label: "русский",
+        href: "https://t.me/kogecoin_ru",
+      },
+      {
+        label: "Türkiye",
+        href: "https://t.me/kogecointurkiye",
+      },
+      {
+        label: "Português",
+        href: "https://t.me/kogecoinPortuguese",
+      },
+      {
+        label: "Español",
+        href: "https://t.me/kogecoinEs",
+      },
+      {
+        label: "日本語",
+        href: "https://t.me/kogecoinjp",
+      },
+      {
+        label: "Français",
+        href: "https://t.me/kogecoinfr",
       },
       {
         label: "Announcements",
-        href: "https://t.me/allswap_xyz_ann",
+        href: "https://t.me/kogecoinAnn",
       },
-  //    {
-  //      label: "Bahasa Indonesia",
-  //      href: "https://t.me/kogecoinIndonesia",
-  //    },
-  //    {
-  //      label: "中文",
-  //      href: "https://t.me/kogecoin_CN",
-  //    },
-  //    {
-  //      label: "Tiếng Việt",
-  //      href: "https://t.me/kogecoinVN",
-  //    },
-  //    {
-  //      label: "Italiano",
-  //      href: "https://t.me/kogecoin_ita",
-  //    },
-  //    {
-  //      label: "русский",
-  //      href: "https://t.me/kogecoin_ru",
-  //    },
-  //    {
-  //      label: "Türkiye",
-  //      href: "https://t.me/kogecointurkiye",
-  //    },
-  //    {
-  //      label: "Português",
-  //      href: "https://t.me/kogecoinPortuguese",
-  //    },
-  //    {
-  //      label: "Español",
-  //      href: "https://t.me/kogecoinEs",
-  //    },
-  //    {
-  //      label: "日本語",
-  //      href: "https://t.me/kogecoinjp",
-  //    },
-  //    {
-  //      label: "Français",
-  //      href: "https://t.me/kogecoinfr",
-  //    },
-  //    {
-  //      label: "Whale Alert",
-  //      href: "https://t.me/kogecoinWhales",
-  //    },
+      {
+        label: "Whale Alert",
+        href: "https://t.me/kogecoinWhales",
+      },
     ],
   },
   {
     label: "Twitter",
     icon: "TwitterIcon",
-    href: "https://twitter.com/Allswaps",
-  },
-  {
-    label: "Discord",
-    icon: "DiscordIcon",
-    href: "https://discord.gg/VgXcCBnxgG",
+    href: "https://twitter.com/kogecoin",
   },
 ];
